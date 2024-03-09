@@ -80,3 +80,45 @@
 // const valores = [1, 2, 3, 4];
 // const soma = valores.reduce((ac, v) => ac + v);
 // console.log(soma);
+
+//function hello (){
+    // console.log ('Oi')
+    //}
+    //hello()
+    //cuidado, aqui redefinimos a função sem parâmetros
+    //function hello (nome){
+    //console.log ('Hello, ' + nome)
+    //}
+    //hello('Pedro')
+
+    // function soma (a, b) {
+    //return a + b;
+    //}
+    //const res = soma (2, 3)
+    // console.log (res)
+
+//const dobro = function (n) {
+    //return n * 2;
+    // };
+    //const res = dobro(4);
+    // console.log(res);
+    //valor padrão para o parâmetro
+    //const triplo = function (n = 5) {
+    //return 3 * n;
+    //};
+    // console.log(triplo());
+    // console.log(triplo(10));
+    
+//const hello = () => console.log("Hello");
+//hello();
+//const dobro = (valor) => valor * 2;
+//console.log(dobro(10));
+// const triplo = (valor) => {
+// return valor * 3;
+//};
+//console.log(triplo(10));
+//e agora?
+// const ehPar = (n) => {
+// n % 2 === 0;
+// };
+//console.log(ehPar(10))
