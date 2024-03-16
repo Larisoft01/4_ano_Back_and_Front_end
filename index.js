@@ -122,3 +122,30 @@
 // n % 2 === 0;
 // };
 //console.log(ehPar(10))
+
+//2.1.1 Uma pessoa se chama João e tem 17 anos. Sua representação JSON é exibida:
+
+//let pessoa = {
+//nome: "João",
+//idade: 17,
+//}
+//o acesso a propriedades pode ser feito com ponto
+//console.log("Me chamo " + pessoa.nome);
+//e com [] também
+//console.log("Tenho " + pessoa["idade"] + " anos");
+
+//Uma pessoa se chama Maria, tem 21 anos e mora na rua B, número 121. Sua representação JSON é exibida 
+
+//let pessoaComEndereco = {
+    //nome: "Maria",
+    //idade: 21,
+    //endereco: {
+    //logradouro: "Rua B",
+    //numero: 121,
+    //},
+    //};
+    //console.log( `Sou ${pessoaComEndereco.nome},tenho ${pessoaComEndereco.idade} anos e moro na rua ${pessoaComEndereco.endereco["logradouro"]} número ${pessoaComEndereco["endereco"]["numero"]}`
+    //);
+
+    
+    
